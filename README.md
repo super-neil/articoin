@@ -1,4 +1,4 @@
-# Articoin: Rewarding Art with Blockchain
+# Articoin: Rewarding Art with Blockchain (Currently a Work-in-Progress)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -25,7 +25,7 @@ Articoin is an Ethereum-based ERC-20 token designed to incentivize and reward th
 
 The Articoin token contract is written in Solidity and deployed on the Ethereum mainnet. You can view the source code and interact with the contract on Etherscan:
 
-[Link to Etherscan contract address]
+[Link to Etherscan contract address TBD when available]
 
 ## Roadmap
 
