@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ethers } from 'ethers';
+//import { ethers } from 'ethers';
 
 function ArtworkSubmissionForm({ contract }) { // Receive contract prop
     // ... (rest of the state variables)
@@ -10,6 +10,10 @@ function ArtworkSubmissionForm({ contract }) { // Receive contract prop
     const handleSubmit = async (event) => {
         event.preventDefault();
         setIsLoading(true);
+
+        const artworkUrl = ""
+        const title = ""
+        const description = ""
 
         try {
             const tokenId = Date.now(); // Simple ID generation (can be improved)

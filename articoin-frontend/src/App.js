@@ -5,6 +5,7 @@ import WalletConnection from './components/WalletConnection';
 function App() {
   return (
     <div>
+      <h1>Articoin</h1>
       <WalletConnection />
       <ArtworkSubmissionForm />
     </div>
